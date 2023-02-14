@@ -1,6 +1,6 @@
 # React Native로 간단한 Counter 만들기
 
-- Github Commit Ref : ...
+- [Github Commit Ref](https://github.com/paullee714/frontend-study/tree/693333edadbe3ac41a6f9d4830480fa2ca0a17b8)
 - 나만의 컴포넌트를 만들어보고, 해당하는 컴포넌트를 사용해서 Counter App을 만들어보자
 
 ## Custom 컴포넌트 만들기
