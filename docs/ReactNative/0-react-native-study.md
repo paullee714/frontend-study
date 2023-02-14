@@ -66,10 +66,12 @@
 <details>
 <summary>최초 실행</summary>
 <div markdown="1">
+
 - React Native 프로젝트 생성
   ```bash
   npx react-native init MyProjectName
   ```
+
 - TypeScript로 React Natvie 프로젝트 생성
   ```bash
   npx react-native init MyProjectName --template react-native-template-typescript
