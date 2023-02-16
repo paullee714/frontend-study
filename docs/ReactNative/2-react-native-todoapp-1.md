@@ -1,5 +1,5 @@
 # React Native로 Todo App 만들기 - Todo 앱 레이아웃 잡기
-
+- [Github Commit Ref](https://github.com/paullee714/frontend-study/tree/05754757af3e717ddc1c2eb19c230499e1d19012)
 ## Todo를 추가할 AddTodo 컴포넌트 추가하기
 - Todo를 추가해주는 컴포넌트를 만들어서, App.tsx에 추가 해주자.
 - 날짜를 나타내는 Header 밑에 AddTodo 컴포넌트를 추가 해 준다
