@@ -1,6 +1,6 @@
 # React Native로 Todo App 만들기 - 헤더 만들기
 
-- [Github Commit Ref]
+- [Github Commit Ref](https://github.com/paullee714/frontend-study/tree/10cb94f5c150e22f7e6209232c2dc3d4c646de28)
 - React Native로 간단한 Todo App을 만들어보자
 
 ## React Native 프로젝트 생성
