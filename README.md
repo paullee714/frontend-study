@@ -10,7 +10,7 @@
 - [ReactNative로 간단한 Counter 만들기](./docs/ReactNative/1-react-native-counterapp.md)
 - ReactNative로 TodoApp 만들기
   - [ReactNative로 TodoApp 만들기 - 헤더만들기](./docs/ReactNattive/../ReactNative/2-react-native-todoapp-0.md)
-  - - [ReactNative로 TodoApp 만들기 - 레이아웃 잡기](./docs/ReactNattive/../ReactNative/2-react-native-todoapp-1.md)
+  - [ReactNative로 TodoApp 만들기 - 레이아웃 잡기](./docs/ReactNattive/../ReactNative/2-react-native-todoapp-1.md)
 ## Vue
 - 업데이트 예정
 
